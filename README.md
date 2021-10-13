@@ -1,11 +1,21 @@
-### Hi there 👋
+### Hi there, I'am Igor 👋
 
-<!--
-**Funtik18/Funtik18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=Funtik18)
 
-Here are some ideas to get you started:
+### Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="CSharp" width="32px" src="https://user-images.githubusercontent.com/25632152/137110070-fa7e388c-c92b-4bc6-8518-54ae6b5c3607.png" />
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
+<details>
+  <summary>:zap: Statistics:</summary>
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Funtik18&langs_count=8&layout=compact" />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Funtik18&show_icons=true" />
+</details>
+
+
+<!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
