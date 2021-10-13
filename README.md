@@ -1,4 +1,4 @@
-### Hi there, I'am Igor 👋
+### Hi there, I'm Igor 👋
 
 ![](https://komarev.com/ghpvc/?username=Funtik18)
 
