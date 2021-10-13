@@ -11,7 +11,7 @@
 <br />
 <details>
   <summary>:zap: Statistics:</summary>
-  NOTE: Most used languages does not indicate my skill level, it's a github metric of which languages I have the most code of on github.
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Funtik18&show_icons=true&count_private=true&theme=dracula" />
+  NOTE: Most used languages does not indicate my skill level, it's a github metric of which languages I have the most code of on github.
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Funtik18&langs_count=10&layout=compact&theme=dracula" />
 </details>
